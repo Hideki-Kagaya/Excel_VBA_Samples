@@ -14,11 +14,17 @@
 なお、私自身はVBAに限らずExcel全般の腕前に強い自信を持っており、そのレベル感を示す動画を  
 下記に公開しておりますので、あわせてご確認いただければ幸いです。  
 
-#### 参考動画・競技Excel第2回大会の本戦問題に挑戦  
-* [問1～3](https://youtu.be/BnzghpURFvk)
-* [問4～6](https://youtu.be/98X3vzoMEhE)
-* [問7～9](https://youtu.be/04UGjHOHVUY)
-* [問10～12](https://youtu.be/6IuC_erHRJ4)
+#### 参考動画
+* **競技Excel第2回大会の本戦問題に挑戦**
+  * [問1～3](https://youtu.be/BnzghpURFvk)
+  * [問4～6](https://youtu.be/98X3vzoMEhE)
+  * [問7～9](https://youtu.be/04UGjHOHVUY)
+  * [問10～12](https://youtu.be/6IuC_erHRJ4)
+* **競技Excel第3回大会の本戦問題に挑戦**
+  * [問1～2](https://youtu.be/21lsVNxO0Go)
+  * [問3～4](https://youtu.be/KJPmAtGHFHY)
+  * [問5～6](https://youtu.be/oCOayZXqInU)
+  * [問7～8](https://youtu.be/o_sk8ZHwbVw)
 
 ※競技Excelに関する詳細、および、各大会の本戦・予選問題のダウンロードは下記公式サイトをご覧ください。  
 [競技Excel 〜Excelの腕自慢集まれ！〜](https://fukusen.org/excel-for-e-sports/)
