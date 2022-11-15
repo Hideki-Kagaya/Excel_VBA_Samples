@@ -28,3 +28,7 @@
 
 ※競技Excelに関する詳細、および、各大会の本戦・予選問題のダウンロードは下記公式サイトをご覧ください。  
 [競技Excel 〜Excelの腕自慢集まれ！〜](https://fukusen.org/excel-for-e-sports/)
+
+なお、公開中のVBAツールに関するご質問や、新規ツールの制作依頼、その他ご相談につきましては、  
+下記メールアドレスまでお願いいたします。  
+E-Mail: [eternal_notes@yahoo.co.jp](mailto:eternal_notes@yahoo.co.jp)
